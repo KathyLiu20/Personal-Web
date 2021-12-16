@@ -9,7 +9,7 @@
 }
 
 .name {
-    font-size: 3rem;
+    font-size: 4vw;
     position: absolute;
     top: 40%;
     left: 35%;
@@ -17,7 +17,7 @@
 }
 
 .adj {
-    font-size: 3rem;
+    font-size: 4vw;
     position: absolute;
     top: 55%;
     left: 50%;
