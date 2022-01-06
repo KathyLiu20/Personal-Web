@@ -1,0 +1,26 @@
+body
+{
+    background-color: #cbe4fa !important;
+}
+
+.category
+{
+    font-size: 1.5rem;
+    color: rgba(0,0,0,.55);
+}
+
+.projects
+{
+    padding: 10% !important;
+}
+
+.card:hover
+{
+    cursor: pointer;
+    width: 90%;
+}
+
+.card-body
+{
+    cursor: default;
+}
